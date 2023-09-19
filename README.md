@@ -33,10 +33,10 @@ To use this smart mall management system, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Powered-Smart-Mall-Management-System.git
+   git clone https://github.com/Leelaprasad001/AI-Powered-Smart-Mall-Management-System.git
 
 2. Commands to run:
-   '''bash
+   ```bash
    FAST-API - python -m uvicorn main:app --reload
    Python - python app.py
    React - 
