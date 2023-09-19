@@ -1,0 +1,14 @@
+pandas
+numpy
+opencv-python
+ultralytics
+uuid
+tensorflow
+datetime
+face-recognition
+cmake
+pymongo
+uvicorn
+fastapi
+face-recognition
+facenet_pytorch

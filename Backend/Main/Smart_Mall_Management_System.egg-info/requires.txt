@@ -1,0 +1,8 @@
+pandas
+numpy
+opencv-python
+ultralytics
+uuid
+tensorflow
+face_recognition
+datetime
